@@ -27,3 +27,9 @@ git config --global user.email "lucasfff7@gmail.com"
 
 //adicionar todas as alterações do projeto na proxima versão 
 git add .
+
+//mostra todos os commit ou seja alterações realizadas quem, onde e o que para facilitar e organizar
+projetos realizados em grupo
+git log
+
+essa linha eu estou criando para não utilizar no projeto.
