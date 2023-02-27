@@ -9,3 +9,21 @@ versão
 // Para verificar o status
 git status
 
+//clear limpa a tela
+
+//git add Adicionar o arquivo mensionado na proxima versão
+git add nomedoarquivo.extensãodoarquivo
+exemplo git add comandosGit.txt
+
+//Criar a próxima versão
+git comit -m "descrição breve da versão criada"
+
+//Adicionar nome do usuario
+git config --global user.name "Aluno Botas"
+
+//Adicionar email do usuario
+git config --global user.email "lucasfff7@gmail.com"
+
+
+//adicionar todas as alterações do projeto na proxima versão 
+git add .
