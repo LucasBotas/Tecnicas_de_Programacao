@@ -1,0 +1,11 @@
+* Para abrir o git basta apertar com o botão direito dentro da pasta e ir em Git bash here,
+vai abrir um diretorio 
+
+//iniciar um controle de versões 
+git init
+Voce pode digitar git init essa pasta na qual estou a partir de agora tem um controle de 
+versão
+
+// Para verificar o status
+git status
+
