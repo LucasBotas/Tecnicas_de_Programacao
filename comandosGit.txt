@@ -1,3 +1,4 @@
+git log
 * Para abrir o git basta apertar com o botão direito dentro da pasta e ir em Git bash here,
 vai abrir um diretorio 
 
@@ -32,4 +33,13 @@ git add .
 projetos realizados em grupo
 git log
 
+// retorna para um commit pelo id
+git reset --hard numerodoiddocommit
+
+//
 essa linha eu estou criando para não utilizar no projeto.
+
+//vincular com repositório remoto
+git remote + endereço do repositório
+
+//subir para repositótio 
