@@ -1,10 +1,5 @@
-var hora = 20
-
-if(hora < 12)
+var hora = 12
+if(hora == 12 || hora ==18)
 {
-    console.log('Bom dia!!!')
-}
-else
-{
-    console.log('Boa Tarde ou Boa Noite')
+    console.log('Hora do Rush')
 }
